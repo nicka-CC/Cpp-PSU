@@ -1,0 +1,43 @@
+# Системные файлы и директории, создаваемые IDE и операционными системами
+.DS_Store
+Thumbs.db
+
+# Файлы и директории, создаваемые CMake
+/cmake-build-debug/
+/cmake-build-release/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Логи и файлы отладки
+*.log
+
+# Файлы CLion и JetBrains IDE
+.idea/
+/.vscode/
+/*.iml
+
+# Бинарные и объектные файлы
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.class
+
+# Файлы временных настроек
+*.swp
+*~
+
+# Автогенерированные файлы и папки
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+/tmp/
