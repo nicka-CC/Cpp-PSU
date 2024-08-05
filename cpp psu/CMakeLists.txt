@@ -4,4 +4,4 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        9st[functions]/1st.cpp)
+        "10st[functions overloading]/1st.cpp")
