@@ -4,4 +4,4 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        3st[ifORswitch]/second.cpp)
+        4st[randomNumber]/1st.cpp)
