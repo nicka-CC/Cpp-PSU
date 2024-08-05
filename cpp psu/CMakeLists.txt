@@ -4,4 +4,4 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        7st[dynamicArrayData]/1st.cpp)
+        8st[String]/1st.cpp)
