@@ -4,5 +4,5 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        17st[OOPClasses]/1st.cpp
+        18st[constructers]/1st.cpp
 )
