@@ -4,5 +4,5 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        22st[template]/1st.cpp
+        23st[templateClasses]/1st.cpp
 )
