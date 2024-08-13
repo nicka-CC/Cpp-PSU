@@ -4,5 +4,5 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        19st[freendlyFunctions]/1st.cpp
+        20st[freendlyClasses]/1st.cpp
 )
