@@ -4,4 +4,4 @@ project(cpp_psu)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(cpp_psu
-        3st/3-7.cpp)
+        4st/4-2.cpp)
